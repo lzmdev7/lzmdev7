@@ -1,10 +1,10 @@
 # Hi there 👋 I'm Iratxe! /  Hola 👋 Soy Iratxe!
-### Cross-Platform Apps Development Student / Estudiante de Desarrollo de Apps Multiplataforma
+### Cross-Platform Apps Developer / Desarrolladora de Apps Multiplataforma
 
 ![lofi banner](https://user-images.githubusercontent.com/84654095/171984672-e9431245-f3ec-401a-9318-2b90c3252033.jpg)
 
 #### :uk:
-I am currently in my final year :woman_student: and focusing on my internship and job search.
+I am a newly graduate in the IT world in search of my first job :woman_office_worker:
 
 My programming knowledge is still basic but I make an effort every day to try to improve my skills. :muscle:
 
@@ -15,7 +15,7 @@ Due to my first profession as a nurse :syringe:, I am used to working in a team,
 # 
 
 #### :es:
-Actualmente estoy cursando el último año :woman_student: y centrándome en mis prácticas y búsqueda de empleo. 
+Soy recién graduada y estoy en busca de mi primer trabajo :woman_office_worker:
 
 Mis conocimientos en programación aún son básicos pero me esfuerzo a diario en intentar mejorar mi aptitudes. :muscle:
 
