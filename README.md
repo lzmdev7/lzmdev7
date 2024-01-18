@@ -52,8 +52,7 @@ Estas son las tecnologías que me han llamado la atención recientemente y en la
 
 ## You can find me in / Encuéntrame en 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Iratxe_lizame-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iratxe-lizame/)
-[![Twitter](https://img.shields.io/badge/Twitter-@iratxe_lzm-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/iratxe_lzm)
-[![Instagram](https://img.shields.io/badge/Instagram-@ira_lzm-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ira_lzm/)
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)(https://github.com/lzmdev7)]
 
 
 
